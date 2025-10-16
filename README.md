@@ -11,7 +11,8 @@ Each program includes a **clear problem statement**, **clean code**, and **examp
 - 🔁 Loops  
 - 🔤 Strings  
 - 🧮 Lists  
-- 🔂 Recursion  
+- 🔂 Recursion
+- 🧾 Dictionaries
 
 ---
 
